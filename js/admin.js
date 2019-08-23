@@ -323,4 +323,4 @@ jQuery( document ).ready( function( $ ) {
         $.post( tc_vars.ajaxUrl, data );
     }
 } );
-
+ 
