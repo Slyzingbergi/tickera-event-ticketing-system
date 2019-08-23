@@ -1,15 +1,15 @@
 <?php
 /*
-  Plugin Name: WordPress Event Ticketing
-  Plugin URI: http://tickera.com/
+  Plugin Name: Happy-Island-tickets
+  Plugin URI: http://happy-island.co.za
   Description: Simple event ticketing system
-  Author: Tickera.com
-  Author URI: http://tickera.com/
-  Version: 3.2.1.1
-  TextDomain: tc
-  Domain Path: /languages/
+  Author: Shaun Clack
+  Author URI: http://akashic.co.za
+  Version: 1.1
+  TextDomain: happy-island
+ 
 
-  Copyright 2015 Tickera (http://tickera.com/)
+  Copyright 2019 Happy-island
  */
 
 if ( !defined( 'ABSPATH' ) )
